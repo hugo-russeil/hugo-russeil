@@ -6,9 +6,8 @@ Hey there! I'm Hugo, a second-year Computer Science student and passionate coder
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=hugo-russeil&theme=dark&show_icons=true" width="400" height="200">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-russeil&layout=compact&theme=dark" width="400" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=hugo-russeil&theme=dark&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-russeil&layout=compact&theme=dark" width="400" height="195">
 
 </div>
 
