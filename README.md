@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 
-Hey there! I'm Hugo, a second-year Computer Science student and passionate coder who loves tinkering with projects whenever inspiration strikes or boredom sets in. Most of the time, you'll find me hacking away in C, building small personal projects for fun and learning.
+Hey there! I'm Hugo, a second-year Computer Science student and passionate coder who loves tinkering with projects whenever inspiration strikes or boredom sets in. Most of this time is dedicated to coding in C, building small personal projects for fun and learning.
 
 ## GitHub Stats
 
