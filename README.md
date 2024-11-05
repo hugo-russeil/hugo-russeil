@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 
-Hey there! I'm Hugo, a third-year Computer Science student and passionate coder who loves tinkering with projects whenever inspiration strikes or boredom sets in. These days, I am mostly experimenting with C++, Java, and C.
+Hey there! I'm Hugo, a third-year Computer Science student and passionate coder who loves tinkering with projects whenever inspiration strikes or boredom sets in. I mostly enjoy experimenting with rather low-level languages.
 
 ## GitHub Stats
 
