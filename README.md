@@ -36,7 +36,7 @@
 ###
 
 <div align="left">
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  /><img width="12" /></a>
+    <a href="https://www.c-language.org/" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  /><img width="12" /></a>
     <a href="https://cplusplus.com" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  /><img width="12" /></a>
     <a href="https://holyc-lang.com/" target="_blank" style="text-decoration: none;"><img src="https://i.ibb.co/hJzpXmv0/holyc.png" height="40" alt="holyc logo"  /><img width="12" /></a>
     <a href="https://www.java.com/" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  /><img width="12" /></a>
