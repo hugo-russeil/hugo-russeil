@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Hello! I'm Hugo, a third-year Computer Science student at the University Institute of Technology of La Rochelle, France. This GitHub profile is a playground where I explore and learn through various side projects. Most of what you'll find here are experiments and learning exercises, particularly in low-level programming languages. These projects are often incomplete or in progress, as my primary goal is to understand and grow my skills. Feel free to explore and provide feedback! </p>
+<p align="left"> This GitHub profile is a playground where I explore and learn through various side projects. Most of what you'll find here are experiments and learning exercises, particularly in low-level programming languages. These projects are often incomplete or in progress, as my primary goal is to understand and grow my skills. Feel free to explore and provide feedback! </p>
 
 ###
 
@@ -21,25 +21,16 @@
 
 ###
 
-<h3 align="left">Currently learning</h3>
-
-###
-<div align="left">
-    <a href="https://ziglang.org/" target="_blank" style="text-decoration: none;" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=zig" height="40" alt="zig logo"  /><img width="12" /></a>
-    <a href="https://kotlinlang.org/" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  /><img width="12" /></a>
-</div>
-
-###
-
 <h3 align="left">Languages I work/have worked with</h3>
 
 ###
-
 <div align="left">
     <a href="https://www.c-language.org/" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  /><img width="12" /></a>
     <a href="https://cplusplus.com" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  /><img width="12" /></a>
     <a href="https://holyc-lang.com/" target="_blank" style="text-decoration: none;"><img src="https://i.ibb.co/hJzpXmv0/holyc.png" height="40" alt="holyc logo"  /><img width="12" /></a>
+    <a href="https://ziglang.org/" target="_blank" style="text-decoration: none;" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=zig" height="40" alt="zig logo"  /><img width="12" /></a>
     <a href="https://www.java.com/" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  /><img width="12" /></a>
+    <a href="https://kotlinlang.org/" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  /><img width="12" /></a>
     <a href="https://www.python.org/" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  /><img width="12" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  /><img width="12" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  /><img width="12" /></a>
