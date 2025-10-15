@@ -1,0 +1,47 @@
+<svg width="560" height="192" viewBox="0 0 560 192" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most Used Languages">
+<style>.title{font:700 20px ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji;fill:#fff}.label{font:500 12px ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji;fill:#ddd}.pct{font:500 12px ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji;fill:#aaa}</style>
+<rect x="0" y="0" width="560" height="192" rx="16" fill="#0f0f10" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1" />
+<text x="20" y="34" class="title">Most Used Languages</text>
+<defs><clipPath id="barclip"><rect x="20" y="44" width="520" height="14" rx="7.0"/></clipPath></defs>
+<rect x="20" y="44" width="520" height="14" rx="7.0" fill="#242427"/>
+<rect x="20.00" y="44" width="257.66" height="14" fill="#555555" clip-path="url(#barclip)"/>
+<rect x="277.66" y="44" width="152.68" height="14" fill="#f34b7d" clip-path="url(#barclip)"/>
+<rect x="430.34" y="44" width="49.32" height="14" fill="#b07219" clip-path="url(#barclip)"/>
+<rect x="479.65" y="44" width="11.09" height="14" fill="#ffefaf" clip-path="url(#barclip)"/>
+<rect x="490.74" y="44" width="6.43" height="14" fill="#4F5D95" clip-path="url(#barclip)"/>
+<rect x="497.17" y="44" width="6.10" height="14" fill="#89e051" clip-path="url(#barclip)"/>
+<rect x="503.27" y="44" width="4.06" height="14" fill="#00B4AB" clip-path="url(#barclip)"/>
+<rect x="507.33" y="44" width="3.85" height="14" fill="#3572A5" clip-path="url(#barclip)"/>
+<rect x="511.18" y="44" width="2.19" height="14" fill="#e34c26" clip-path="url(#barclip)"/>
+<rect x="513.37" y="44" width="26.63" height="14" fill="#777777" clip-path="url(#barclip)"/>
+<rect x="20" y="63" width="10" height="10" rx="2" fill="#555555"/>
+<text x="36" y="72" class="label">C</text>
+<text x="220" y="72" class="pct" text-anchor="end">49.55%</text>
+<rect x="20" y="81" width="10" height="10" rx="2" fill="#f34b7d"/>
+<text x="36" y="90" class="label">C++</text>
+<text x="220" y="90" class="pct" text-anchor="end">29.36%</text>
+<rect x="20" y="99" width="10" height="10" rx="2" fill="#b07219"/>
+<text x="36" y="108" class="label">Java</text>
+<text x="220" y="108" class="pct" text-anchor="end">9.48%</text>
+<rect x="20" y="117" width="10" height="10" rx="2" fill="#ffefaf"/>
+<text x="36" y="126" class="label">HolyC</text>
+<text x="220" y="126" class="pct" text-anchor="end">2.13%</text>
+<rect x="20" y="135" width="10" height="10" rx="2" fill="#4F5D95"/>
+<text x="36" y="144" class="label">PHP</text>
+<text x="220" y="144" class="pct" text-anchor="end">1.24%</text>
+<rect x="290" y="63" width="10" height="10" rx="2" fill="#89e051"/>
+<text x="306" y="72" class="label">Shell</text>
+<text x="490" y="72" class="pct" text-anchor="end">1.17%</text>
+<rect x="290" y="81" width="10" height="10" rx="2" fill="#00B4AB"/>
+<text x="306" y="90" class="label">Dart</text>
+<text x="490" y="90" class="pct" text-anchor="end">0.78%</text>
+<rect x="290" y="99" width="10" height="10" rx="2" fill="#3572A5"/>
+<text x="306" y="108" class="label">Python</text>
+<text x="490" y="108" class="pct" text-anchor="end">0.74%</text>
+<rect x="290" y="117" width="10" height="10" rx="2" fill="#e34c26"/>
+<text x="306" y="126" class="label">HTML</text>
+<text x="490" y="126" class="pct" text-anchor="end">0.42%</text>
+<rect x="290" y="135" width="10" height="10" rx="2" fill="#777777"/>
+<text x="306" y="144" class="label">Other</text>
+<text x="490" y="144" class="pct" text-anchor="end">5.12%</text>
+</svg>
